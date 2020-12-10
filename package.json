@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-cheatsheet",
+  "version": "1.0.0",
+  "description": "Created following Adeel Imran's guide",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harabeolji/ExpressJS-Cheatsheet.git"
+  },
+  "keywords": [],
+  "author": "Harabeolji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harabeolji/ExpressJS-Cheatsheet/issues"
+  },
+  "homepage": "https://github.com/harabeolji/ExpressJS-Cheatsheet#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
